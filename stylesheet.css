@@ -1,0 +1,11 @@
+div{
+    height:100px;
+    width:100px;
+    background-color:purple;
+    color:white;
+    display:grid;
+    place-items:center;
+    position:absolute;
+    top:48vh;
+    left:48vw;
+}
