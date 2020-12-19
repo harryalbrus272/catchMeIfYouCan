@@ -6,6 +6,6 @@ div{
     display:grid;
     place-items:center;
     position:absolute;
-    top:48vh;
+    top:42vh;
     left:48vw;
 }
